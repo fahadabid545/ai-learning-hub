@@ -22,7 +22,7 @@ Below is the **auto generated table of repositories** by topic.
 
 <!-- REPO_TABLE_START -->
 
-**357 repositories** across **82 topics** — last updated 2026-07-13
+**358 repositories** across **83 topics** — last updated 2026-07-20
 
 ## Contents
 
@@ -109,6 +109,7 @@ Below is the **auto generated table of repositories** by topic.
   - [Sensor Fusion](#sensor-fusion)
   - [Drone Ai](#drone-ai)
   - [Reinforcement Robots](#reinforcement-robots)
+  - [Control Systems](#control-systems)
   - [Sim2Real](#sim2real)
 - [Developer Tools & Fundamentals](#developer-tools--fundamentals)
   - [Python](#python)
@@ -133,7 +134,7 @@ Below is the **auto generated table of repositories** by topic.
 | [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) | An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks | 5.1k | Python | Tutorial | 2021-12 |
 | [MachineLearningStocks](https://github.com/robertmartin8/MachineLearningStocks) | Using python and scikit-learn to make stock predictions | 2.0k | Python | Tutorial | 2024-06 |
 | [hand_detection](https://github.com/molyswu/hand_detection) | using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a... | 277 | Python | Dataset | 2022-01 |
-| [redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) | Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Secu... | 247 | - | Research | 2021-05 |
+| [redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) | Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Secu... | 248 | - | Research | 2021-05 |
 | [Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI) | The guide to master Artificial Intelligence (machine learning & deep learning) from beginner to a... | 154 | - | Awesome List | 2024-03 |
 | [torrents](https://github.com/swati1024/torrents) | Skip to content   Search… All gists Back to GitHub Sign in Sign up Instantly share code, notes, a... | 104 | - | Tutorial | 2020-02 |
 
@@ -141,19 +142,19 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) | A curated collection of free, high-quality resources for learning about AI, including ML, deep le... | 178 | - | Tutorial | 2025-05 |
-| [blast-ON](https://github.com/BabyJ723/blast-ON) | # Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa8565... | 45 | - | Awesome List | 2021-09 |
+| [free-ai-resources](https://github.com/JohnMwendwa/free-ai-resources) | A curated collection of free, high-quality resources for learning about AI, including ML, deep le... | 182 | - | Tutorial | 2025-05 |
+| [blast-ON](https://github.com/BabyJ723/blast-ON) | # Awesome Keycloak [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa8565... | 46 | - | Awesome List | 2021-09 |
 | [Hackers-Guide-to-Deep-Learning](https://github.com/curiousily/Hackers-Guide-to-Deep-Learning) | Tutorials on how to engineer Machine Learning projects using Deep Neural Networks with PyTorch an... | 29 | Jupyter Notebook | Tutorial | 2020-12 |
 | [deep_rl_pong_keras](https://github.com/thinkingparticle/deep_rl_pong_keras) | Deep Reinforcement Learning Policy Gradients Method - Pong game - Keras | 22 | Jupyter Notebook | Tutorial | 2018-06 |
 | [python-AIBooks](https://github.com/pramit-marattha/python-AIBooks) | Find all the book s related to Python , Artificial Intelligence , Machine Learning ,Deep Learning... | 12 | - | Tutorial | 2020-04 |
-| [Deep-Learning-for-Image-Classification](https://github.com/Malikanhar/Deep-Learning-for-Image-Classification) | Are you interested in image classification? But haven't used deep learning before? Through this t... | 7 | Jupyter Notebook | Dataset | 2020-05 |
 | [deepTF-tutorial](https://github.com/nicoprocessor/deepTF-tutorial) | Collection of examples and data from "The Complete guide to TensorFlow for Deep Learning with Pyt... | 7 | Jupyter Notebook | Tutorial | 2017-12 |
+| [Deep-Learning-for-Image-Classification](https://github.com/Malikanhar/Deep-Learning-for-Image-Classification) | Are you interested in image classification? But haven't used deep learning before? Through this t... | 7 | Jupyter Notebook | Dataset | 2020-05 |
 
 ### Neural Networks
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [IntroNeuralNetworks](https://github.com/VivekPa/IntroNeuralNetworks) | Introducing neural networks to predict stock prices | 774 | Python | Tutorial | 2019-08 |
+| [IntroNeuralNetworks](https://github.com/VivekPa/IntroNeuralNetworks) | Introducing neural networks to predict stock prices | 775 | Python | Tutorial | 2019-08 |
 | [Capsulepaper](https://github.com/CAPRDZV/Capsulepaper) | 论文 Hinton等的论文  Matrix capsules with EM routing - Hinton, G. E., Sabour, S. and Frosst, N. (2018) ... | 20 | - | Awesome List | 2021-08 |
 | [micrograduate](https://github.com/ckaraneen/micrograduate) | 📖 A self-contained course to learn the basics of neural networks: from backprop to GPT! 🌻 | 15 | Jupyter Notebook | Tutorial | 2026-01 |
 | [elk-audio-AI-tutorial](https://github.com/domenicostefani/elk-audio-AI-tutorial) | Guide to deploying neural networks in VST plugins, with a specific focus on embedded devices usin... | 6 | Jupyter Notebook | Tutorial | 2023-09 |
@@ -210,7 +211,7 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including tr... | 67.1k | Python | Research | 2026-01 |
+| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including tr... | 67.2k | Python | Research | 2026-01 |
 | [DeepLearning](https://github.com/Mikoto10032/DeepLearning) | 深度学习入门教程, 优秀文章, Deep Learning Tutorial | 17.6k | Jupyter Notebook | Tutorial | 2022-04 |
 | [DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll) | TensorFlow Basic Tutorial Labs | 4.5k | Jupyter Notebook | Tutorial | 2023-10 |
 | [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) | In this repository, I will share some useful notes and references about deploying deep learning-b... | 4.4k | - | Tutorial | 2024-11 |
@@ -234,11 +235,11 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial) | Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning... | 988 | Jupyter Notebook | Tutorial | 2024-06 |
+| [deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial) | Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning... | 989 | Jupyter Notebook | Tutorial | 2024-06 |
 | [Machine_Learning_Tutorials](https://github.com/maelfabien/Machine_Learning_Tutorials) | Code, exercises and tutorials of my personal blog ! 📝 | 792 | Jupyter Notebook | Tutorial | 2020-02 |
 | [deep_learning](https://github.com/vict0rsch/deep_learning) | Deep Learning Resources and Tutorials using Keras and Lasagne | 425 | Python | Tutorial | 2020-08 |
 | [Easy-deep-learning-with-Keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras) | Keras tutorial for beginners (using TF backend) | 402 | Jupyter Notebook | Tutorial | 2020-11 |
-| [Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) | Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques ... | 215 | Jupyter Notebook | Dataset | 2024-07 |
+| [Recommendation-systems](https://github.com/piyushpathak03/Recommendation-systems) | Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques ... | 216 | Jupyter Notebook | Dataset | 2024-07 |
 | [Deep-Learning-Based-ECG-Annotator](https://github.com/niekverw/Deep-Learning-Based-ECG-Annotator) | Annotation of ECG signals using deep learning, tensorflow’ Keras | 145 | Python | Tutorial | 2020-01 |
 | [deep_learning_for_biologists_with_keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) | tutorials made for biologists to learn deep learning | 107 | Jupyter Notebook | Tutorial | 2019-05 |
 
@@ -260,13 +261,13 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [AgentGuide](https://github.com/adongwanai/AgentGuide) | https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法... | 6.9k | HTML | Tutorial | 2026-07 |
-| [dive-into-langgraph](https://github.com/luochang212/dive-into-langgraph) | LangGraph 1.0 Tutorial | 419 | Jupyter Notebook | Tutorial | 2026-06 |
+| [AgentGuide](https://github.com/adongwanai/AgentGuide) | https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法... | 7.1k | HTML | Tutorial | 2026-07 |
+| [dive-into-langgraph](https://github.com/luochang212/dive-into-langgraph) | LangGraph 1.0 Tutorial | 421 | Jupyter Notebook | Tutorial | 2026-06 |
 | [langchain-decoded](https://github.com/alphasecio/langchain-decoded) | A companion guide for the blog post series, LangChain Decoded. | 143 | Jupyter Notebook | Tutorial | 2024-07 |
-| [LangGraph-Mastery-Playbook](https://github.com/leslieo2/LangGraph-Mastery-Playbook) | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and w... | 52 | Python | Tutorial | 2025-11 |
+| [LangGraph-Mastery-Playbook](https://github.com/leslieo2/LangGraph-Mastery-Playbook) | LangGraph Mastery Playbook: guided, code-first lessons for building memory-aware LLM agents and w... | 51 | Python | Tutorial | 2025-11 |
 | [LangChain-Tutorials](https://github.com/TirendazAcademy/LangChain-Tutorials) | Practical step-by-step LangChain guides | 41 | Jupyter Notebook | Tutorial | 2025-04 |
 | [ai-learning](https://github.com/princepal9120/ai-learning) | AI Learning: A comprehensive repository for Artificial Intelligence and Machine Learning resource... | 25 | Jupyter Notebook | Tutorial | 2026-04 |
-| [generative-ai-for-beginners-project-based-guide-to-building-rag-agents](https://github.com/hereandnowai/generative-ai-for-beginners-project-based-guide-to-building-rag-agents) | A beginner-friendly, project-driven tutorial on generative AI and LangChain agents. You'll learn ... | 21 | Jupyter Notebook | Tutorial | 2026-07 |
+| [generative-ai-for-beginners-project-based-guide-to-building-rag-agents](https://github.com/hereandnowai/generative-ai-for-beginners-project-based-guide-to-building-rag-agents) | A beginner-friendly, project-driven tutorial on generative AI and LangChain agents. You'll learn ... | 22 | Jupyter Notebook | Tutorial | 2026-07 |
 
 ---
 
@@ -276,7 +277,7 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [Writing-Portfolio](https://github.com/kingabzpro/Writing-Portfolio) | Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guides, projects, and... | 14 | Astro | Tutorial | 2026-07 |
+| [Writing-Portfolio](https://github.com/kingabzpro/Writing-Portfolio) | Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guides, projects, and... | 15 | Astro | Tutorial | 2026-07 |
 | [NLP](https://github.com/usmanyousaaf/NLP) | This repository provides a comprehensive guide to natural language processing. Whether you're a b... | 10 | Jupyter Notebook | Research | 2024-04 |
 | [AI-Beginners-Guide](https://github.com/bcExpt1123/AI-Beginners-Guide) | A comprehensive resource for beginners in AI, featuring curated documentation, tutorials, and sam... | 9 | - | Tutorial | 2025-06 |
 
@@ -287,7 +288,7 @@ Below is the **auto generated table of repositories** by topic.
 | [a-PyTorch-Tutorial-to-Text-Classification](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Text-Classification) | Hierarchical Attention Networks | a PyTorch Tutorial to Text Classification | 247 | Python | Tutorial | 2020-06 |
 | [Awesome-Text-Classification](https://github.com/fendouai/Awesome-Text-Classification) | Awesome-Text-Classification Projects,Papers,Tutorial . | 175 | - | Awesome List | 2017-11 |
 | [nlp_estimator_tutorial](https://github.com/eisenjulian/nlp_estimator_tutorial) | Educational material on using the TensorFlow Estimator framework for text classification | 134 | Jupyter Notebook | Tutorial | 2019-01 |
-| [Sentiment](https://github.com/RubixML/Sentiment) | An example project using a feed-forward neural network for text sentiment classification trained ... | 117 | PHP | Dataset | 2025-07 |
+| [Sentiment](https://github.com/RubixML/Sentiment) | An example project using a feed-forward neural network for text sentiment classification trained ... | 118 | PHP | Dataset | 2025-07 |
 | [overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification](https://github.com/ahmedbesbes/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification) | NLP tutorial | 42 | Jupyter Notebook | Dataset | 2018-06 |
 | [Python-for-Text-Classification](https://github.com/codingforentrepreneurs/Python-for-Text-Classification) | Python for Text Classification with Machine Learning in Python 3.6. | 36 | Jupyter Notebook | Tutorial | 2018-09 |
 | [torchtext-tutorial](https://github.com/nn116003/torchtext-tutorial) | torchtext-tutorial (text classification) | 32 | Jupyter Notebook | Tutorial | 2018-03 |
@@ -299,10 +300,10 @@ Below is the **auto generated table of repositories** by topic.
 | [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) | Tutorials on getting started with PyTorch and TorchText for sentiment analysis. | 4.6k | Jupyter Notebook | Tutorial | 2024-03 |
 | [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) | Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning u... | 2.5k | Jupyter Notebook | Tutorial | 2024-06 |
 | [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) | LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with cus... | 1.2k | Jupyter Notebook | Tutorial | 2024-01 |
-| [LSTM_RNN_Tutorials_with_Demo](https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo) | LSTM-RNN Tutorial with LSTM and RNN Tutorial with Demo with Demo Projects such as Stock/Bitcoin T... | 858 | Python | Tutorial | 2024-11 |
+| [LSTM_RNN_Tutorials_with_Demo](https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo) | LSTM-RNN Tutorial with LSTM and RNN Tutorial with Demo with Demo Projects such as Stock/Bitcoin T... | 857 | Python | Tutorial | 2024-11 |
 | [word2vec-sentiments](https://github.com/linanqiu/word2vec-sentiments) | Tutorial for Sentiment Analysis using Doc2Vec in gensim (or "getting 87% accuracy in sentiment an... | 682 | Jupyter Notebook | Tutorial | 2019-03 |
 | [twitter-sentiment-analysis-tutorial-201107](https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107) | Code to reproduce the simple sentiment analysis from my presentation | 417 | R | Tutorial | 2022-08 |
-| [pytorch-sentiment-analysis-classification](https://github.com/slaysd/pytorch-sentiment-analysis-classification) | A PyTorch Tutorials of Sentiment Analysis Classification  (RNN, LSTM, Bi-LSTM, LSTM+Attention, CNN) | 334 | Jupyter Notebook | Dataset | 2023-04 |
+| [pytorch-sentiment-analysis-classification](https://github.com/slaysd/pytorch-sentiment-analysis-classification) | A PyTorch Tutorials of Sentiment Analysis Classification  (RNN, LSTM, Bi-LSTM, LSTM+Attention, CNN) | 333 | Jupyter Notebook | Dataset | 2023-04 |
 
 ### Named Entity Recognition
 
@@ -342,8 +343,8 @@ Below is the **auto generated table of repositories** by topic.
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [OpenAI-Assistants-Template](https://github.com/pranavgupta2603/OpenAI-Assistants-Template) | Build and deploy AI-driven assistants with our OpenAI Assistants Template. This tutorial provides... | 99 | Jupyter Notebook | Tutorial | 2023-11 |
+| [medical-chatbot](https://github.com/AIwithhassan/medical-chatbot) | In this tutorial, learn to build a smart Medical Chatbot using open-source tools. We'll use Huggi... | 74 | Python | Tutorial | 2025-07 |
 | [awesome-openclaw](https://github.com/ZeroLu/awesome-openclaw) | A curated collection of OpenClaw tutorials, skills, and use cases. Learn how to build your person... | 72 | - | Awesome List | 2026-03 |
-| [medical-chatbot](https://github.com/AIwithhassan/medical-chatbot) | In this tutorial, learn to build a smart Medical Chatbot using open-source tools. We'll use Huggi... | 71 | Python | Tutorial | 2025-07 |
 | [chatgpt-clone](https://github.com/kinsta/chatgpt-clone) | In this tutorial, you will learn how to build a ChatGPT clone application using React and the Ope... | 25 | JavaScript | Tutorial | 2023-08 |
 | [Streamlit-Ollama-Chatbot](https://github.com/AIDevBytes/Streamlit-Ollama-Chatbot) | Build Your Own AI Chatbot with Streamlit and Ollama: A Step-by-Step Tutorial | 25 | Python | Tutorial | 2024-05 |
 | [AI-Chatbot-With-ChatGPT-API](https://github.com/sivamsinghsh/AI-Chatbot-With-ChatGPT-API) | In this tutorial, we have added step-by-step instructions to build your own AI chatbot with ChatG... | 11 | Python | Tutorial | 2023-04 |
@@ -358,7 +359,7 @@ Below is the **auto generated table of repositories** by topic.
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [Generative-AI-Tutorial](https://github.com/pittisl/Generative-AI-Tutorial) | A subjective learning guide for generative AI research | 93 | - | Research | 2024-08 |
-| [ai-tutorials](https://github.com/microsoft-foundry/ai-tutorials) | This repo includes a collection of tutorials to help you get started with building Generative AI ... | 83 | - | Tutorial | 2025-06 |
+| [ai-tutorials](https://github.com/microsoft-foundry/ai-tutorials) | This repo includes a collection of tutorials to help you get started with building Generative AI ... | 84 | - | Tutorial | 2025-06 |
 | [Awesome-GenAI](https://github.com/izam-mohammed/Awesome-GenAI) | A curated collection of tutorials, examples, and tools for generative AI. Dive into a variety of ... | 12 | - | Awesome List | 2024-07 |
 | [ai-publications](https://github.com/jonigl/ai-publications) | Open-source guides and tutorials on AI agents, generative AI, and machine learning—covering Pytho... | 6 | Python | Research | 2025-08 |
 
@@ -370,9 +371,9 @@ Below is the **auto generated table of repositories** by topic.
 | [AI-Infra-from-Zero-to-Hero](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero) | 🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Ma... | 4.2k | - | Awesome List | 2025-07 |
 | [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) | Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis ... | 3.7k | - | Awesome List | 2026-01 |
 | [llm-python](https://github.com/onlyphantom/llm-python) | Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, ... | 925 | Jupyter Notebook | Tutorial | 2026-02 |
-| [awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) | Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for... | 522 | - | Awesome List | 2024-12 |
+| [awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) | Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for... | 524 | - | Awesome List | 2024-12 |
 | [LLM-for-genomics-training](https://github.com/raphaelmourad/LLM-for-genomics-training) | Tutorial on large language models for genomics | 283 | - | Tutorial | 2025-06 |
-| [llm-semantic-book-recommender](https://github.com/t-redactyl/llm-semantic-book-recommender) | The code to accompany the freeCodeCamp tutorial explaining how to use large language models to bu... | 191 | Jupyter Notebook | Tutorial | 2025-01 |
+| [llm-semantic-book-recommender](https://github.com/t-redactyl/llm-semantic-book-recommender) | The code to accompany the freeCodeCamp tutorial explaining how to use large language models to bu... | 196 | Jupyter Notebook | Tutorial | 2025-01 |
 
 ### Attention Mechanisms
 
@@ -397,7 +398,7 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [FTC-Skystone-Dark-Angels-Romania-2020](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020) | NOTICE This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition seaso... | 292 | Java | Tutorial | 2024-04 |
+| [FTC-Skystone-Dark-Angels-Romania-2020](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020) | NOTICE This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition seaso... | 296 | Java | Tutorial | 2024-04 |
 | [train-yolov10-custom-data-full-guide](https://github.com/computervisioneng/train-yolov10-custom-data-full-guide) | Train Yolov10 object detection custom data FULL GUIDE | Computer vision tutorial | 13 | Jupyter Notebook | Tutorial | 2024-09 |
 | [computer-vision-toolkit](https://github.com/SmartMaatt/computer-vision-toolkit) | Comprehensive beginner's guide to computer vision with user-friendly Python scripts using OpenCV,... | 7 | Python | Tutorial | 2024-10 |
 
@@ -452,7 +453,7 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [php-opencv-examples](https://github.com/php-opencv/php-opencv-examples) | Tutorial for computer vision and machine learning in PHP 7/8 by opencv (installation + examples +... | 483 | PHP | Tutorial | 2023-04 |
+| [php-opencv-examples](https://github.com/php-opencv/php-opencv-examples) | Tutorial for computer vision and machine learning in PHP 7/8 by opencv (installation + examples +... | 484 | PHP | Tutorial | 2023-04 |
 | [medium-facenet-tutorial](https://github.com/ColeMurray/medium-facenet-tutorial) | Facial Recognition Pipeline using Dlib and Tensorflow | 217 | Python | Tutorial | 2023-03 |
 | [MobileFaceNet_Tutorial_Pytorch](https://github.com/xuexingyu24/MobileFaceNet_Tutorial_Pytorch) | This repo illustrates how to implement MobileFaceNet and Arcface for face recognition task | 90 | Jupyter Notebook | Tutorial | 2019-06 |
 | [Face-Recognition](https://github.com/thecodacus/Face-Recognition) | Face Recognition tutorial code | 84 | Python | Tutorial | 2020-03 |
@@ -464,7 +465,7 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [basicOCR](https://github.com/damiles/basicOCR) | Basic Optical Character Recognition Tutorial. Damiles Blog. | 120 | C++ | Tutorial | 2021-01 |
+| [basicOCR](https://github.com/damiles/basicOCR) | Basic Optical Character Recognition Tutorial. Damiles Blog. | 119 | C++ | Tutorial | 2021-01 |
 | [nicar_ocr](https://github.com/chadday/nicar_ocr) | A tutorial on optical character recognition using tesseract, ImageMagick and other open source tools | 69 | Jupyter Notebook | Tutorial | 2025-01 |
 | [PaddleOCR-Tutorial](https://github.com/Jacky0111/PaddleOCR-Tutorial) | Explore the world of Optical Character Recognition (OCR) with this beginner-friendly PaddleOCR tu... | 9 | Python | Tutorial | 2023-12 |
 
@@ -472,9 +473,9 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [Robotics-Object-Pose-Estimation](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation) | A complete end-to-end demonstration in which we collect training data in Unity and use that data ... | 345 | Python | Tutorial | 2022-04 |
+| [Robotics-Object-Pose-Estimation](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation) | A complete end-to-end demonstration in which we collect training data in Unity and use that data ... | 346 | Python | Tutorial | 2022-04 |
 | [Improved-Body-Parts](https://github.com/hellojialee/Improved-Body-Parts) | Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation | 263 | Python | Tutorial | 2022-05 |
-| [aruco-markers](https://github.com/fdcl-gwu/aruco-markers) | Working examples/tutorial for detection and pose estimation of ArUco markers with C++, including ... | 261 | C++ | Tutorial | 2024-02 |
+| [aruco-markers](https://github.com/fdcl-gwu/aruco-markers) | Working examples/tutorial for detection and pose estimation of ArUco markers with C++, including ... | 262 | C++ | Tutorial | 2024-02 |
 | [Barracuda-PoseNet-Tutorial](https://github.com/cj-mills/Barracuda-PoseNet-Tutorial) | This tutorial series provides step-by-step instructions for how to perform human pose estimation ... | 106 | C# | Tutorial | 2023-03 |
 | [pose-estimation](https://github.com/jungin-jin-choi/pose-estimation) | A korean tutorial for Human Pose Estimation (Single & Multi) | 17 | Jupyter Notebook | Tutorial | 2019-02 |
 
@@ -492,7 +493,7 @@ Below is the **auto generated table of repositories** by topic.
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [OK-](https://github.com/hiteshsuthar01/OK-) | <html lang="en-US"><head><script type="text/javascript" async="" src="https://script.4dex.io/loca... | 39 | - | Awesome List | 2022-04 |
-| [Top-10-MCA-Projects-Ideas](https://github.com/Projects-Developer/Top-10-MCA-Projects-Ideas) | AI, blockchain, IoT, and big data analytics, providing MCA students with opportunities to develop... | 7 | - | Research | 2026-01 |
+| [Top-10-MCA-Projects-Ideas](https://github.com/Projects-Developer/Top-10-MCA-Projects-Ideas) | AI, blockchain, IoT, and big data analytics, providing MCA students with opportunities to develop... | 8 | - | Research | 2026-01 |
 
 ---
 
@@ -518,9 +519,9 @@ Below is the **auto generated table of repositories** by topic.
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) | A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, P... | 1.3k | - | Awesome List | 2026-07 |
-| [DataScienceProjects](https://github.com/tuangauss/DataScienceProjects) | The code repository for projects and tutorials in R and Python that covers a variety of topics in... | 825 | Jupyter Notebook | Tutorial | 2026-06 |
+| [DataScienceProjects](https://github.com/tuangauss/DataScienceProjects) | The code repository for projects and tutorials in R and Python that covers a variety of topics in... | 827 | Jupyter Notebook | Tutorial | 2026-06 |
 | [ptmst](https://github.com/re-book/ptmst) | Probability Theory and Mathematical Statistics Tutorial | 245 | TeX | Tutorial | 2024-02 |
-| [Bookmarklet-Hacks-For-School](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School) | * READ THE README FOR INFO!! * Incoming Tags- z score statistics,find mean median mode statistics... | 176 | - | Research | 2022-01 |
+| [Bookmarklet-Hacks-For-School](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School) | * READ THE README FOR INFO!! * Incoming Tags- z score statistics,find mean median mode statistics... | 175 | - | Research | 2022-01 |
 | [Foundations-of-Data-Science-with-Python](https://github.com/jmshea/Foundations-of-Data-Science-with-Python) | Interactive flashcards and quizzes, as well as additional tutorials, animations, and code, for "F... | 36 | Jupyter Notebook | Tutorial | 2026-03 |
 | [stats_and_probability](https://github.com/chalmerlowe/stats_and_probability) | Tutorial on statistics and probability | 34 | Jupyter Notebook | Tutorial | 2018-05 |
 | [CSE-Semester-4-IITKGP](https://github.com/ansh121/CSE-Semester-4-IITKGP) | Subject :- Formal Language and Automata Theory (CS21004), Probability and Statistics (MA20104), S... | 14 | Java | Tutorial | 2021-09 |
@@ -535,9 +536,9 @@ Below is the **auto generated table of repositories** by topic.
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [first-python-notebook](https://github.com/palewire/first-python-notebook) | A step-by-step guide to analyzing data with Python and the Jupyter notebook. | 61 | Makefile | Tutorial | 2025-05 |
+| [first-python-notebook](https://github.com/palewire/first-python-notebook) | A step-by-step guide to analyzing data with Python and the Jupyter notebook. | 61 | Makefile | Tutorial | 2026-07 |
 | [Complete-Python-Mastery](https://github.com/Pankaj-Str/Complete-Python-Mastery) | Explore the world of Python programming with 'Complete Python Mastery'! Our repository, led by Pa... | 60 | Jupyter Notebook | Tutorial | 2026-07 |
-| [noBSstats](https://github.com/minireference/noBSstats) | Hands-on tutorials, exercises, and projects to accompany the No Bullshit Guide to Statistics | 51 | Jupyter Notebook | Tutorial | 2026-05 |
+| [noBSstats](https://github.com/minireference/noBSstats) | Hands-on tutorials, exercises, and projects to accompany the No Bullshit Guide to Statistics | 51 | Jupyter Notebook | Tutorial | 2026-07 |
 | [pandas_data_cleaning](https://github.com/KarrieK/pandas_data_cleaning) | A brief guide and tutorial on how to clean data using pandas and Jupyter notebook | 49 | - | Tutorial | 2024-02 |
 | [machine-learning-for-dummies](https://github.com/mr-ubik/machine-learning-for-dummies) | Series of talks/workshops aimed at guiding newcomers through Python basics, Data Analysis and Mac... | 33 | Jupyter Notebook | Tutorial | 2018-07 |
 | [FooDine](https://github.com/mgupta11/FooDine) | FooDine
@@ -555,11 +556,11 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [JoeyBlue-SQL-Trainings](https://github.com/EmbarkBlue/JoeyBlue-SQL-Trainings) | Comprehensive training resources for SQL and Microsoft BI tools. Includes setup guides, installat... | 85 | TSQL | Tutorial | 2024-10 |
+| [JoeyBlue-SQL-Trainings](https://github.com/EmbarkBlue/JoeyBlue-SQL-Trainings) | Comprehensive training resources for SQL and Microsoft BI tools. Includes setup guides, installat... | 86 | TSQL | Tutorial | 2024-10 |
 | [grafana-wallpaper](https://github.com/luizbizzio/grafana-wallpaper) | 🖥️ A detailed guide on how to set up Grafana and display its dashboards as your desktop wallpaper... | 25 | Markdown | Research | 2026-04 |
 | [esa-land-cover](https://github.com/milos-agathon/esa-land-cover) | Harnessing the power of ESA’s satellite data and Microsoft’s Planetary Computer STAC API, we’re c... | 10 | R | Tutorial | 2024-05 |
 | [MicrobiomeStat-Turtorial-Professional-Version](https://github.com/cafferychen777/MicrobiomeStat-Turtorial-Professional-Version) | MicrobiomeStat Tutorial Repository: This is a comprehensive resource for learning how to use the ... | 7 | - | Tutorial | 2026-06 |
-| [No-8-PinterestSwift-1007-stars-on-Github-](https://github.com/jinchengliu/No-8-PinterestSwift-1007-stars-on-Github-) | 88.gif  No 9  YouTube Transition [786 stars on Github]  Watch a video on the right corner like Yo... | 5 | - | Dataset | 2016-11 |
+| [No-8-PinterestSwift-1007-stars-on-Github-](https://github.com/jinchengliu/No-8-PinterestSwift-1007-stars-on-Github-) | 88.gif  No 9  YouTube Transition [786 stars on Github]  Watch a video on the right corner like Yo... | 6 | - | Dataset | 2016-11 |
 | [pose-format-tutorials](https://github.com/24-mohamedyehia/pose-format-tutorials) | Practical, end-to-end notebooks and examples that teach the pose-format library from basics to ad... | 5 | - | Tutorial | 2026-04 |
 
 ### Matplotlib
@@ -622,18 +623,18 @@ Concept: The app is created to serve the food ordering market and can be a direc
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [FriendlyDockerMLTutorial](https://github.com/CreativeInquiry/FriendlyDockerMLTutorial) | The Docker meets Machine Learning Tutorial You've Been Wanting! | 40 | Dockerfile | Tutorial | 2023-05 |
+| [Machine-Learning-Pipelines](https://github.com/rahul765/Machine-Learning-Pipelines) | From data gathering to model deployment. Complete ML pipeline using Docker, Airflow and Python. | 13 | Python | Tutorial | 2023-10 |
 | [docker-ml-tutorial](https://github.com/ashutosh1919/docker-ml-tutorial) | This project illustrate step by step procedure to start working on docker for Machine Learning pr... | 13 | Jupyter Notebook | Tutorial | 2020-06 |
 | [ml_prod_tutorial](https://github.com/juanitorduz/ml_prod_tutorial) | Explore tips and tricks to deploy machine learning models with Docker. | 13 | Python | Tutorial | 2023-07 |
-| [Machine-Learning-Pipelines](https://github.com/rahul765/Machine-Learning-Pipelines) | From data gathering to model deployment. Complete ML pipeline using Docker, Airflow and Python. | 13 | Python | Tutorial | 2023-10 |
-| [fast-api-tutorial](https://github.com/lsjsj92/fast-api-tutorial) | fast api with machine learning | 10 | Python | Tutorial | 2023-04 |
 | [sound_classification_ml_production](https://github.com/jsalbert/sound_classification_ml_production) | In this repository you will find an end to end hands-on tutorial of an example of machine learnin... | 10 | Jupyter Notebook | Dataset | 2021-02 |
+| [fast-api-tutorial](https://github.com/lsjsj92/fast-api-tutorial) | fast api with machine learning | 10 | Python | Tutorial | 2023-04 |
 | [Scikit-learn-Streamlit-Docker-Kubernetes](https://github.com/iQuantC/Scikit-learn-Streamlit-Docker-Kubernetes) | In this step-by-step tutorial, learn how to build, visualize, and deploy a Scikit-learn machine l... | 6 | Python | Tutorial | 2025-06 |
 
 ### Data Pipelines
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [pipeline_etl_weather_data_tutorial_youtube](https://github.com/vbluuiza/pipeline_etl_weather_data_tutorial_youtube) | 📄 Tutorial prático de Engenharia de Dados para YouTube. Pipeline ETL completo com Airflow, Python... | 40 | Python | Tutorial | 2026-02 |
+| [pipeline_etl_weather_data_tutorial_youtube](https://github.com/vbluuiza/pipeline_etl_weather_data_tutorial_youtube) | 📄 Tutorial prático de Engenharia de Dados para YouTube. Pipeline ETL completo com Airflow, Python... | 41 | Python | Tutorial | 2026-02 |
 | [AirFlow-ML-Data-Integration](https://github.com/gbazad93/AirFlow-ML-Data-Integration) | An Airflow-based pipeline that fetches data from a free API, cleans and transforms it, and saves ... | 15 | Python | Tutorial | 2025-03 |
 | [reference_etl](https://github.com/egehanyorulmaz/reference_etl) | Tutorial for easy-to-manage data pipelines with Airflow | 10 | Python | Tutorial | 2022-06 |
 | [etl-datasets-tutorial](https://github.com/astronomer/etl-datasets-tutorial) | Build a data-aware ETL pipeline that extracts, loads, and transforms data in a DuckDB database fo... | 7 | Python | Dataset | 2024-10 |
@@ -646,8 +647,8 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [nima0011](https://github.com/nima0011/nima0011) | # Contributing to this repository <!-- omit in toc -->  ## Getting started <!-- omit in toc -->  ... | 23 | - | Tutorial | 2022-02 |
-| [prototype](https://github.com/EMETEM-GLOBAL-ENTERPRISE/prototype) | # Contributing to this repository <!-- omit in toc -->  ## Getting started <!-- omit in toc -->  ... | 14 | - | Tutorial | 2020-12 |
+| [nima0011](https://github.com/nima0011/nima0011) | # Contributing to this repository <!-- omit in toc -->  ## Getting started <!-- omit in toc -->  ... | 24 | - | Tutorial | 2022-02 |
+| [prototype](https://github.com/EMETEM-GLOBAL-ENTERPRISE/prototype) | # Contributing to this repository <!-- omit in toc -->  ## Getting started <!-- omit in toc -->  ... | 15 | - | Tutorial | 2020-12 |
 | [AI-Machine-Learning-and-Data-Engineering-Resources](https://github.com/pavandeore/AI-Machine-Learning-and-Data-Engineering-Resources) | This repository contains a curated list of articles, guides, and tutorials on AI, machine learnin... | 7 | - | Research | 2025-03 |
 
 ### Apache Spark
@@ -678,10 +679,10 @@ Concept: The app is created to serve the food ordering market and can be a direc
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) | A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences... | 1.6k | - | Awesome List | 2024-04 |
-| [time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) | A use-case focused tutorial for time series forecasting with python | 693 | Jupyter Notebook | Tutorial | 2023-05 |
+| [time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python) | A use-case focused tutorial for time series forecasting with python | 695 | Jupyter Notebook | Tutorial | 2023-05 |
 | [DeepLearningForTimeSeriesForecasting](https://github.com/Azure/DeepLearningForTimeSeriesForecasting) | A tutorial demonstrating how to implement deep learning models for time series forecasting | 685 | Jupyter Notebook | Tutorial | 2020-11 |
 | [AI-for-Time-Series-Papers-Tutorials-Surveys](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) | A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences... | 167 | - | Research | 2022-06 |
-| [BrewPOTS](https://github.com/WenjieDu/BrewPOTS) | The tutorials for PyPOTS, guide you to model partially-observed time series datasets. | 126 | Jupyter Notebook | Dataset | 2026-06 |
+| [BrewPOTS](https://github.com/WenjieDu/BrewPOTS) | The tutorials for PyPOTS, guide you to model partially-observed time series datasets. | 126 | Jupyter Notebook | Dataset | 2026-07 |
 | [pytorch-ts](https://github.com/gautham20/pytorch-ts) | Tutorials on using encoder decoder architecture for time series forecasting | 116 | Jupyter Notebook | Tutorial | 2021-09 |
 | [timeseries-tutorial-kdd-2022](https://github.com/qingsongedu/timeseries-tutorial-kdd-2022) | KDD'22 Tutorial: Robust Time Series Analysis and Applications An Industrial Perspective | 103 | - | Tutorial | 2024-03 |
 
@@ -689,7 +690,7 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [recommenders](https://github.com/recommenders-team/recommenders) | Best Practices on Recommendation Systems | 21.8k | Python | Tutorial | 2026-06 |
+| [recommenders](https://github.com/recommenders-team/recommenders) | Best Practices on Recommendation Systems | 21.8k | Python | Tutorial | 2026-07 |
 | [recommender-system-tutorial](https://github.com/xei/recommender-system-tutorial) | A step-by-step tutorial on developing a practical recommendation system (retrieval and ranking) u... | 218 | Jupyter Notebook | Dataset | 2025-03 |
 | [recommender-tutorial](https://github.com/topspinj/recommender-tutorial) | An introduction to recommendation systems in Python | 206 | HTML | Tutorial | 2020-11 |
 | [awesome-nlp-references](https://github.com/JudePark96/awesome-nlp-references) | A curated list of resources dedicated to Knowledge Distillation, Recommendation System, especiall... | 33 | - | Awesome List | 2021-04 |
@@ -702,8 +703,8 @@ Concept: The app is created to serve the food ordering market and can be a direc
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) | Out-of-distribution detection, robustness, and generalization resources. The repository contains ... | 1.0k | - | Awesome List | 2026-04 |
-| [TSB-AD](https://github.com/thedatumorg/TSB-AD) | Time-Series Anomaly Detection | Algorithms + Datasets + Tutorials | 296 | Python | Dataset | 2026-07 |
-| [Anomaly_Detection_Tuto](https://github.com/JulienAu/Anomaly_Detection_Tuto) | Anomaly detection tutorial on univariate time series with an auto-encoder | 191 | Jupyter Notebook | Tutorial | 2021-03 |
+| [TSB-AD](https://github.com/thedatumorg/TSB-AD) | Time-Series Anomaly Detection | Algorithms + Datasets + Tutorials | 300 | Python | Dataset | 2026-07 |
+| [Anomaly_Detection_Tuto](https://github.com/JulienAu/Anomaly_Detection_Tuto) | Anomaly detection tutorial on univariate time series with an auto-encoder | 190 | Jupyter Notebook | Tutorial | 2021-03 |
 | [machineLearning](https://github.com/bigsnarfdude/machineLearning) | POC IDS anomaly detection engine built with iPython notebook, matplotlib, pandas, numpy, scikit-l... | 79 | Python | Tutorial | 2014-07 |
 | [Notebooks](https://github.com/InfluxCommunity/Notebooks) | A collection of Jupyter Notebook tutorials on anomaly detection, forecasting, and InfluxDB. | 52 | Jupyter Notebook | Tutorial | 2023-03 |
 | [NSVAD](https://github.com/fdjingliu/NSVAD) | This is a repo for the paper "Networking Systems for Video Anomaly Detection: A Tutorial and Surv... | 33 | - | Research | 2025-03 |
@@ -760,8 +761,8 @@ Concept: The app is created to serve the food ordering market and can be a direc
 | [Multi-Modal-Transformer](https://github.com/junchen14/Multi-Modal-Transformer) | The repository collects many various multi-modal transformer architectures, including image trans... | 235 | - | Tutorial | 2022-08 |
 | [mutual_information_and_self-supervised_learning](https://github.com/SeongokRyu/mutual_information_and_self-supervised_learning) | Notes and tutorials on "Mutual information and self-supervised learning" | 39 | Python | Tutorial | 2019-11 |
 | [cs231n-exercise-assignment](https://github.com/gxherror/cs231n-exercise-assignment) | 2022-cs231n-assignment,including new assignment:Self_Supervised_Learning,Transformer_Captioning,R... | 8 | Jupyter Notebook | Tutorial | 2022-03 |
-| [self-supervised-learning](https://github.com/zhenghuatan/self-supervised-learning) | Slides for the tutorial on self-supervised learning, etc. | 5 | - | Tutorial | 2026-03 |
 | [ssl-recsys.github.io](https://github.com/ssl-recsys/ssl-recsys.github.io) | Introduction page of the coming tutorial "Self-Supervised Learning in Recommendation: Fundamental... | 5 | SCSS | Tutorial | 2024-09 |
+| [self-supervised-learning](https://github.com/zhenghuatan/self-supervised-learning) | Slides for the tutorial on self-supervised learning, etc. | 5 | - | Tutorial | 2026-03 |
 
 ### Semi Supervised Learning
 
@@ -773,7 +774,7 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [Reinforcement_learning_tutorial_with_demo](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo) | Reinforcement Learning Tutorial with Demo: DP (Policy and Value Iteration), Monte Carlo, TD Learn... | 800 | Jupyter Notebook | Research | 2019-01 |
+| [Reinforcement_learning_tutorial_with_demo](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo) | Reinforcement Learning Tutorial with Demo: DP (Policy and Value Iteration), Monte Carlo, TD Learn... | 801 | Jupyter Notebook | Research | 2019-01 |
 | [BayesianNeuralNetwork-Tutorial-Metarepos](https://github.com/french-paragon/BayesianNeuralNetwork-Tutorial-Metarepos) | A meta repository pointing to the other repositories where the implementation of the supplementar... | 149 | - | Tutorial | 2022-04 |
 | [MetaDrive-Tutorials](https://github.com/wz-ml/MetaDrive-Tutorials) | Reinforcement Learning tutorials with Metadrive: A collection of hands-on notebooks and resources... | 26 | Jupyter Notebook | Tutorial | 2023-10 |
 | [ArduinoBareMetal](https://github.com/sebastianomelita/ArduinoBareMetal) | Manual for the learning of embedded systems basics | 13 | C++ | Tutorial | 2026-07 |
@@ -785,8 +786,8 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [causal-inference-tutorial](https://github.com/amit-sharma/causal-inference-tutorial) | Repository with code and slides for a tutorial on causal inference. | 590 | Jupyter Notebook | Tutorial | 2019-09 |
-| [pgmpy_tutorials](https://github.com/pgmpy/pgmpy_tutorials) | Tutorials on Causal Inference and pgmpy | 395 | Jupyter Notebook | Tutorial | 2025-08 |
+| [causal-inference-tutorial](https://github.com/amit-sharma/causal-inference-tutorial) | Repository with code and slides for a tutorial on causal inference. | 589 | Jupyter Notebook | Tutorial | 2019-09 |
+| [pgmpy_tutorials](https://github.com/pgmpy/pgmpy_tutorials) | Tutorials on Causal Inference and pgmpy | 396 | Jupyter Notebook | Tutorial | 2025-08 |
 | [Deep-Learning-for-Causal-Inference](https://github.com/kochbj/Deep-Learning-for-Causal-Inference) | Extensive tutorials for learning how to build deep learning models for causal inference (HTE) usi... | 355 | - | Tutorial | 2024-10 |
 | [causality-tutorials](https://github.com/vveitch/causality-tutorials) | Short tutorials on the use of machine learning methods for causal inference | 51 | Jupyter Notebook | Tutorial | 2026-05 |
 | [TutorialCausalInferenceEstimators](https://github.com/migariane/TutorialCausalInferenceEstimators) | Introduction to the mosts common estimators and computation in causal inference for epidemiologis... | 39 | Jupyter Notebook | Tutorial | 2021-01 |
@@ -801,13 +802,13 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide | 14.8k | - | Tutorial | 2026-03 |
+| [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) | [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide | 14.9k | - | Tutorial | 2026-03 |
 
 ### Autonomous Systems
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) | A 27-chapter hands-on tutorial for building an autonomous AI agent from zero in Python. Agent loo... | 178 | Python | Tutorial | 2026-05 |
+| [learn-hermes-agent](https://github.com/longyunfeigu/learn-hermes-agent) | A 27-chapter hands-on tutorial for building an autonomous AI agent from zero in Python. Agent loo... | 186 | Python | Tutorial | 2026-05 |
 | [dora-drives](https://github.com/dora-rs/dora-drives) | A step-by-step tutorial that allows beginners to write their own autonomous vehicle program from ... | 75 | Python | Tutorial | 2024-06 |
 | [autonomous](https://github.com/sinamhd/autonomous) | Tutorials on building intelligent agents and autonomous workflows using LLMs. Learn to design and... | 6 | Python | Tutorial | 2025-03 |
 
@@ -823,17 +824,23 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [awesome-autonomous-drone-racing](https://github.com/aimarket/awesome-autonomous-drone-racing) | Curated resources for autonomous drone racing: AI Grand Prix, A2RL, RL tutorials  Resources, tool... | 94 | - | Awesome List | 2026-06 |
+| [awesome-autonomous-drone-racing](https://github.com/aimarket/awesome-autonomous-drone-racing) | Curated resources for autonomous drone racing: AI Grand Prix, A2RL, RL tutorials  Resources, tool... | 95 | - | Awesome List | 2026-06 |
 
 ### Reinforcement Robots
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [train-robot-arm-from-scratch](https://github.com/MorvanZhou/train-robot-arm-from-scratch) | Build environment and train a robot arm from scratch (Reinforcement Learning) | 406 | Python | Tutorial | 2020-08 |
-| [cyclo_lab](https://github.com/ROBOTIS-GIT/cyclo_lab) | This repository provides tutorials for reinforcement learning and imitation learning using ROBOTI... | 129 | Python | Tutorial | 2026-06 |
-| [tools-for-robotic-rl-icra2022](https://github.com/araffin/tools-for-robotic-rl-icra2022) | Tutorial: Tools for Robotic Reinforcement Learning, Hands-on RL for Robotics with EAGER and Stabl... | 103 | HTML | Tutorial | 2025-09 |
+| [cyclo_lab](https://github.com/ROBOTIS-GIT/cyclo_lab) | This repository provides tutorials for reinforcement learning and imitation learning using ROBOTI... | 132 | Python | Tutorial | 2026-06 |
+| [tools-for-robotic-rl-icra2022](https://github.com/araffin/tools-for-robotic-rl-icra2022) | Tutorial: Tools for Robotic Reinforcement Learning, Hands-on RL for Robotics with EAGER and Stabl... | 104 | HTML | Tutorial | 2025-09 |
 | [DeepReinforcementLearning-QuadrupedRobotTrainingTutorial](https://github.com/rlMWcn/DeepReinforcementLearning-QuadrupedRobotTrainingTutorial) |  | 42 | MATLAB | Tutorial | 2021-01 |
 | [RL_robotics_tutorial](https://github.com/taewookim0812/RL_robotics_tutorial) | This is a project for robotic control with reinforcement learning | 8 | Python | Tutorial | 2018-07 |
+
+### Control Systems
+
+| Repository | Description | Stars | Language | Type | Updated |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| [PikaHelper](https://github.com/duonghieu7104/PikaHelper) | An AI-powered chatbot system using RAG (Retrieval-Augmented Generation) to help PokeMMO players. ... | 5 | Python | Tutorial | 2025-12 |
 
 ### Sim2Real
 
@@ -854,7 +861,7 @@ Concept: The app is created to serve the food ordering market and can be a direc
 | [06_Python_Object_Class](https://github.com/milaan9/06_Python_Object_Class) | Object-oriented programming (OOP) is a method of structuring a program by bundling related proper... | 314 | Jupyter Notebook | Tutorial | 2022-12 |
 | [pyquest](https://github.com/ivnvxd/pyquest) | Python everything Cheatsheet and a Journey to the land of Python programming | 260 | Jupyter Notebook | Tutorial | 2024-03 |
 | [lexy](https://github.com/antoniorodr/lexy) | Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" dir... | 118 | Python | Tutorial | 2026-07 |
-| [EthicalHackingFromScratch](https://github.com/bookworm52/EthicalHackingFromScratch) | Welcome to my comprehensive course on python programming and ethical hacking. The course assumes ... | 102 | - | Tutorial | 2020-12 |
+| [EthicalHackingFromScratch](https://github.com/bookworm52/EthicalHackingFromScratch) | Welcome to my comprehensive course on python programming and ethical hacking. The course assumes ... | 103 | - | Tutorial | 2020-12 |
 | [Python-Basic-programs](https://github.com/sanusanth/Python-Basic-programs) | What is Python? Executive Summary Python is an interpreted, object-oriented, high-level programmi... | 92 | Python | Tutorial | 2023-02 |
 
 ### SQL
@@ -881,9 +888,9 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [jj-for-everyone.github.io](https://github.com/jj-for-everyone/jj-for-everyone.github.io) | A Jujutsu tutorial that requires no previous experience with Git or other version control systems. | 263 | CSS | Tutorial | 2026-07 |
+| [jj-for-everyone.github.io](https://github.com/jj-for-everyone/jj-for-everyone.github.io) | A Jujutsu tutorial that requires no previous experience with Git or other version control systems. | 264 | CSS | Tutorial | 2026-07 |
 | [Git-Version-Control](https://github.com/rohanmistry231/Git-Version-Control) | A comprehensive resource for learning Git version control, featuring tutorials, practical example... | 33 | - | Tutorial | 2025-05 |
-| [cnn10](https://github.com/questionmark1122/cnn10) | #!bash # # bash completion support for core Git. # # Copyright (C) 2006,2007 Shawn O. Pearce <spe... | 15 | - | Tutorial | 2021-12 |
+| [cnn10](https://github.com/questionmark1122/cnn10) | #!bash # # bash completion support for core Git. # # Copyright (C) 2006,2007 Shawn O. Pearce <spe... | 16 | - | Tutorial | 2021-12 |
 | [reproguide-curate](https://github.com/mvuorre/reproguide-curate) | Curating Research Assets in Behavioral Sciences: A tutorial on organizing and curating research m... | 15 | TeX | Research | 2018-11 |
 | [git-tutorial](https://github.com/cirosantilli/git-tutorial) | Git version control tutorial. | 14 | JavaScript | Tutorial | 2020-08 |
 | [git-tutorial](https://github.com/ml-evs/git-tutorial) | An introduction to git and version control, initially written for the Part II Computational Physi... | 10 | Jupyter Notebook | Tutorial | 2025-08 |
@@ -910,7 +917,7 @@ Concept: The app is created to serve the food ordering market and can be a direc
 
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
-| [cloud-projects](https://github.com/mzazon/cloud-projects) | Over 1100 cloud recipes, projects, tutorials, and real-world solutions to gain hands-on experienc... | 510 | Shell | Tutorial | 2025-12 |
+| [cloud-projects](https://github.com/mzazon/cloud-projects) | Over 1100 cloud recipes, projects, tutorials, and real-world solutions to gain hands-on experienc... | 516 | Shell | Tutorial | 2025-12 |
 | [finops-tutorial](https://github.com/ahmadalibagheri/finops-tutorial) | I explain some solution for reducing your cost in public cloud | 36 | HCL | Tutorial | 2022-04 |
 | [cdktf-tutorial](https://github.com/ahmadalibagheri/cdktf-tutorial) | Deploy many cdktf sample codes on all public cloud | 15 | - | Tutorial | 2022-04 |
 
@@ -921,7 +928,7 @@ Concept: The app is created to serve the food ordering market and can be a direc
 | [hello-bash-shell](https://github.com/mouredev/hello-bash-shell) | Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scrip... | 2.3k | Shell | Tutorial | 2025-11 |
 | [Tutorials-for-Web-Developers](https://github.com/StevenSLXie/Tutorials-for-Web-Developers) | Tutorials for web developers including bash scripting, Linux commands, MongoDB. Actively updating. | 894 | - | Tutorial | 2021-01 |
 | [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) | A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice ... | 690 | Shell | Tutorial | 2026-01 |
-| [Tools-termux](https://github.com/Taoviqinvicible/Tools-termux) | 1.[Script Termux] -Cmatrix *apt-get update *apt-get upgrade *apt-get install nmap *apt-get instal... | 585 | - | Tutorial | 2018-11 |
+| [Tools-termux](https://github.com/Taoviqinvicible/Tools-termux) | 1.[Script Termux] -Cmatrix *apt-get update *apt-get upgrade *apt-get install nmap *apt-get instal... | 587 | - | Tutorial | 2018-11 |
 | [oracle-linux](https://github.com/oracle/oracle-linux) | Scripts, examples, and tutorials to get started with Oracle Linux | 178 | Shell | Tutorial | 2026-03 |
 | [bash-script-templates](https://github.com/devopshobbies/bash-script-templates) | The complete bash script tutorial, reference, awesome examples | 45 | Shell | Awesome List | 2023-02 |
 | [arch.linux.tutorial](https://github.com/sayems/arch.linux.tutorial) | This repository contains scripts, configuration files, and Arch Linux installation guide | 24 | Shell | Tutorial | 2025-02 |
@@ -931,8 +938,8 @@ Concept: The app is created to serve the food ordering market and can be a direc
 | Repository | Description | Stars | Language | Type | Updated |
 | :--- | :--- | ---: | :--- | :--- | :--- |
 | [tutorial](https://github.com/BayesianTestsML/tutorial) | Tutorial on Bayesian tests for Machine Learning | 82 | Jupyter Notebook | Tutorial | 2020-12 |
-| [Automating-Machine-Learning-Testing](https://github.com/kingabzpro/Automating-Machine-Learning-Testing) | Automating Machine Learning Testing using GitHub Actions and DeepChecks | 40 | Python | Tutorial | 2024-07 |
-| [python_data_science_tips](https://github.com/erikaduan/python_data_science_tips) | A repository of Python tips for common data science tasks, including dataset unit testing and mac... | 36 | Jupyter Notebook | Dataset | 2022-04 |
+| [Automating-Machine-Learning-Testing](https://github.com/kingabzpro/Automating-Machine-Learning-Testing) | Automating Machine Learning Testing using GitHub Actions and DeepChecks | 41 | Python | Tutorial | 2024-07 |
+| [python_data_science_tips](https://github.com/erikaduan/python_data_science_tips) | A repository of Python tips for common data science tasks, including dataset unit testing and mac... | 37 | Jupyter Notebook | Dataset | 2022-04 |
 | [Gradio-Python-Tutorial](https://github.com/NhanPhamThanh-IT/Gradio-Python-Tutorial) | 🧩 This repository provides a comprehensive tutorial on building interactive machine learning inte... | 17 | Python | Tutorial | 2025-07 |
 | [ShedLight_UQ](https://github.com/GDelCorso/ShedLight_UQ) | Detailed implementations, Jupyter tutorials and complete packages to implement and test Probabili... | 11 | Jupyter Notebook | Research | 2026-03 |
 | [appsec.study](https://github.com/zzzteph/appsec.study) | List of vulnerable machines for testing and training. Nothing more. Nothing less. | 9 | JavaScript | Tutorial | 2026-07 |
